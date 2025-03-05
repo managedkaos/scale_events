@@ -13,6 +13,6 @@ clean:
 	rm -vf events.json
 
 process:
-	python process.py
+	python process.py | tee README.md
 
 .PHONY: all requirements scrape clean process
