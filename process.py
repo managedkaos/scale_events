@@ -14,6 +14,7 @@ The scraped data has the format:
 }
 """
 import bios
+import csv
 
 # Define the order of days
 DAYS = ["Thursday", "Friday", "Saturday", "Sunday"]
@@ -21,7 +22,7 @@ DAYS = ["Thursday", "Friday", "Saturday", "Sunday"]
 if __name__ == "__main__":
     # Load scraped event data
     events = bios.read("events.json")
-    events_with_no_day = []
+    events_csv = [["Day", "Time", "Title", "Speaker", "URL", "Room", "Topic"]]
 
     print("# SCaLE 22x Schedule\n")
 
@@ -41,8 +42,14 @@ if __name__ == "__main__":
             url = event.get("url")
             topic = event.get("topic")
 
+            events_csv.append([day,time,title,speaker,url,room,topic])
+
             print(f"- [{title}]({url})")
-            print(f"  * {speaker}")
-            print(f"  * Topic: {topic}")
-            print(f"  * {time} - {room}")
+            print(f"  - {speaker}")
+            print(f"  - {time} - {room}")
             print()
+
+    with open('events.csv', 'w') as csvfile:
+        writer = csv.writer(csvfile, delimiter=',')
+        for event in events_csv:
+            writer.writerow(event)

@@ -10,7 +10,7 @@ scrape: clean
 	scrapy crawl scale_schedule -o events.json
 
 clean:
-	rm -vf events.json
+	rm -vf events.json events.csv README.md
 
 process:
 	python process.py | tee README.md
