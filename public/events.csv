@@ -2,15 +2,15 @@ Day,Time,Title,Speaker,URL,Room,Topic
 Thursday,09:00,OpenInfra Days North America Keynotes,"Allison Price, Gerald Bothello, Luke Repko, Chris Breu, Julia Kreger, James Blair, Ildiko Vancsa",https://www.socallinuxexpo.org/scale/22x/presentations/openinfra-days-north-america-keynotes,Room 106,Everyone
 Thursday,09:30,Fireside Chat: An Outsider’s Look at Nix,"Ron Efroni, Kelsey Hightower",https://www.socallinuxexpo.org/scale/22x/presentations/fireside-chat-outsider%E2%80%99s-look-nix,Room 101,PlanetNix
 Thursday,10:00,Kubernetes For Sysadmins Workshop,Joe Thompson,https://www.socallinuxexpo.org/scale/22x/presentations/kubernetes-sysadmins-workshop,Ballroom A,Intermediate
-Thursday,10:00,pAI-OS Workshop,Sam Johnston,https://www.socallinuxexpo.org/scale/22x/presentations/pai-os-workshop,Room 212,Kwaai Summit
+Thursday,10:00,Progressive Delivery with Argo Rollouts,"Ryan Jarvinen, Evan Shortiss, Christian Hernandez",https://www.socallinuxexpo.org/scale/22x/presentations/progressive-delivery-argo-rollouts,Ballroom B,Advanced
 Thursday,10:00,Open Source for Good,"Cynthia Lo, Avni Khatri, Margaret Tucker",https://www.socallinuxexpo.org/scale/22x/presentations/open-source-good,Room 211,Everyone
-Thursday,10:00,Power Editing with vi,Aleksey Tsalolikhin,https://www.socallinuxexpo.org/scale/22x/presentations/power-editing-vi,Room 208,Everyone
+Thursday,10:00,pAI-OS Workshop,Sam Johnston,https://www.socallinuxexpo.org/scale/22x/presentations/pai-os-workshop,Room 212,Kwaai Summit
 Thursday,10:00,Embedded Programming Workshop Day 1,Steve Oualline,https://www.socallinuxexpo.org/scale/22x/presentations/embedded-programming-workshop-day-1,Room 209,Developer
+Thursday,10:00,Power Editing with vi,Aleksey Tsalolikhin,https://www.socallinuxexpo.org/scale/22x/presentations/power-editing-vi,Room 208,Everyone
 Thursday,10:00,SunSecCon Workshop: Cooking Cyber Recipes with CyberChef,Marco Palacios,https://www.socallinuxexpo.org/scale/22x/presentations/sunseccon-workshop-cooking-cyber-recipes-cyberchef,Room 105,SunSecCon
 Thursday,10:00,Learn Nix the Fun Way,Farid Zakaria,https://www.socallinuxexpo.org/scale/22x/presentations/learn-nix-fun-way,Room 104,PlanetNix
 Thursday,10:00,The Nix PR Pipeline,Tristan Ross,https://www.socallinuxexpo.org/scale/22x/presentations/nix-pr-pipeline,Room 101,PlanetNix
 Thursday,10:00,A look at the Elephant's trunk - PostgreSQL 18,Magnus Hagander,https://www.socallinuxexpo.org/scale/22x/presentations/look-elephants-trunk-postgresql-18,Ballroom G,Intermediate
-Thursday,10:00,Progressive Delivery with Argo Rollouts,"Ryan Jarvinen, Evan Shortiss, Christian Hernandez",https://www.socallinuxexpo.org/scale/22x/presentations/progressive-delivery-argo-rollouts,Ballroom B,Advanced
 Thursday,11:00,Getting Started With OpenStack,Amy Marrich,https://www.socallinuxexpo.org/scale/22x/presentations/getting-started-openstack,Room 107,Beginner
 Thursday,11:00,Students in Open Source: The OpenInfra University Partnership Program Growth and Lessons Learned,"Kendall Nelson, Stephen Walli, Corey Leong",https://www.socallinuxexpo.org/scale/22x/presentations/students-open-source-openinfra-university-partnership-program-growth-and,Room 106,Beginner
 Thursday,11:00,"generating secrets with nixos, the missing puzzle piece","Kenji Berthold, Lassulus .",https://www.socallinuxexpo.org/scale/22x/presentations/generating-secrets-nixos-missing-puzzle-piece,Room 104,PlanetNix
@@ -20,9 +20,9 @@ Thursday,11:30,Building and Supporting Open Source Communities Through Metrics: 
 Thursday,11:30,OpenStack in the Real World,Jay Faulkner,https://www.socallinuxexpo.org/scale/22x/presentations/openstack-real-world,Room 106,Everyone
 Thursday,11:30,Building Linux from Scratch... from Nix,Tim Golden,https://www.socallinuxexpo.org/scale/22x/presentations/building-linux-scratch-nix,Room 104,PlanetNix
 Thursday,11:30,How to make Nix five times faster,Nick Johnstone,https://www.socallinuxexpo.org/scale/22x/presentations/how-make-nix-five-times-faster,Room 101,PlanetNix
-Thursday,12:00,Welcome to Kwaai Summit,"Matthew Small, Reza Rassool",https://www.socallinuxexpo.org/scale/22x/presentations/welcome-kwaai-summit,Ballroom F,Kwaai Summit
 Thursday,12:00,Project Gating with Zuul,James Blair,https://www.socallinuxexpo.org/scale/22x/presentations/project-gating-zuul,Room 107,Everyone
 Thursday,12:00,Knowing is Half the Battle: End to End Observability in OpenStack on Kubernetes,Jamie Parker,https://www.socallinuxexpo.org/scale/22x/presentations/knowing-half-battle-end-end-observability-openstack-kubernetes,Room 106,Everyone
+Thursday,12:00,Welcome to Kwaai Summit,"Matthew Small, Reza Rassool",https://www.socallinuxexpo.org/scale/22x/presentations/welcome-kwaai-summit,Ballroom F,Kwaai Summit
 Thursday,12:15,AI in Education: Amplified Intelligence through Games,Nolan Bushnell,https://www.socallinuxexpo.org/scale/22x/presentations/ai-education-amplified-intelligence-through-games,Ballroom F,Everyone
 Thursday,12:30,Testing software defined storage on multiple architectures in a OpenStack environment,olaph wagoner,https://www.socallinuxexpo.org/scale/22x/presentations/testing-software-defined-storage-multiple-architectures-openstack,Room 107,Intermediate
 Thursday,12:30,"Ironic, Neutron and OVN - current challenges","Michal Nasiadka, Bartosz Bezak",https://www.socallinuxexpo.org/scale/22x/presentations/ironic-neutron-and-ovn-current-challenges,Room 106,Everyone
@@ -33,12 +33,12 @@ Thursday,13:00,The 5th Element: Operationalizing the Agentic Economy,Fay Arjoman
 Thursday,13:15,Personal vs. Personalized AI,Doc Searls,https://www.socallinuxexpo.org/scale/22x/presentations/personal-vs-personalized-ai,Ballroom F,Everyone
 Thursday,13:30,Introduction to the Module System,Daniel Baker,https://www.socallinuxexpo.org/scale/22x/presentations/introduction-module-system,Room 104,PlanetNix
 Thursday,13:30,Nix in the Wild,Ross Turk,https://www.socallinuxexpo.org/scale/22x/presentations/nix-wild,Room 101,PlanetNix
-Thursday,14:00,Developing as a Team for Kubernetes with Nix and Flox,"Leigh Capili, Tanja Ulianova, Nick Lewis",https://www.socallinuxexpo.org/scale/22x/presentations/developing-team-kubernetes-nix-and-flox,Ballroom B,Developer
+Thursday,14:00,So you want to be a Kubestronaut,Paul Yu,https://www.socallinuxexpo.org/scale/22x/presentations/so-you-want-be-kubestronaut,Ballroom A,Everyone
 Thursday,14:00,bpftrace hands on lab,"Jonathan Haslam, Jordan Rome, Daniel Xu",https://www.socallinuxexpo.org/scale/22x/presentations/bpftrace-hands-lab,Room 211,Everyone
 Thursday,14:00,Fedora+CentOS Classroom,"Carl George, Shaun McCance, Jason Brooks",https://www.socallinuxexpo.org/scale/22x/presentations/fedoracentos-classroom,Room 208,Intermediate
 Thursday,14:00,Using /opt/store,Thomas Bereknyei,https://www.socallinuxexpo.org/scale/22x/presentations/using-optstore,Room 101,PlanetNix
 Thursday,14:00,Panel: AI Thought Leaders,"Doc Searls, Fay Arjomandi, Reza Rassool, Nolan Bushnell",https://www.socallinuxexpo.org/scale/22x/presentations/panel-ai-thought-leaders,Ballroom F,Everyone
-Thursday,14:00,So you want to be a Kubestronaut,Paul Yu,https://www.socallinuxexpo.org/scale/22x/presentations/so-you-want-be-kubestronaut,Ballroom A,Everyone
+Thursday,14:00,Developing as a Team for Kubernetes with Nix and Flox,"Leigh Capili, Tanja Ulianova, Nick Lewis",https://www.socallinuxexpo.org/scale/22x/presentations/developing-team-kubernetes-nix-and-flox,Ballroom B,Developer
 Thursday,14:30,RDO openstack on OKD kubernetes: The perfect combination for modern enterprise datacenter,Maciej Lecki,https://www.socallinuxexpo.org/scale/22x/presentations/rdo-openstack-okd-kubernetes-perfect-combination-modern-enterprise,Room 107,Everyone
 Thursday,14:30,CephFS and OpenStack Manila: File Sharing Without the Headaches (Mostly!),"Goutham Pacha Ravi, Carlos Eduardo da Silva, Ashley Rodriguez",https://www.socallinuxexpo.org/scale/22x/presentations/cephfs-and-openstack-manila-file-sharing-without-headaches-mostly,Room 106,Everyone
 Thursday,14:30,Extend your PostgreSQL: The world of PostgreSQL extensions,Devrim Gunduz,https://www.socallinuxexpo.org/scale/22x/presentations/extend-your-postgresql-world-postgresql-extensions,Ballroom G,Everyone
@@ -74,7 +74,6 @@ Friday,09:30,The future of OpenStack operators meetups and community,Chris Morga
 Friday,09:30,Workshop - Intro to Nix,Matteo Fusi,https://www.socallinuxexpo.org/scale/22x/presentations/workshop-intro-nix,Room 104,PlanetNix
 Friday,09:30,UbuCon Introduction,"Aaron Prisk, Jason Nucciarone",https://www.socallinuxexpo.org/scale/22x/presentations/ubucon-introduction,Room 103,Ubucon
 Friday,09:30,Flox as a Guided Path for Nix,Michael Stahnke,https://www.socallinuxexpo.org/scale/22x/presentations/flox-guided-path-nix,Room 101,PlanetNix
-Friday,10:00,The Cloud Has Made Us Reckless,Tim Banks,https://www.socallinuxexpo.org/scale/22x/presentations/cloud-has-made-us-reckless,Ballroom A,Everyone
 Friday,10:00,Standing on Code: Advancing Scientific Discovery Through Sustainable Software Practices,Alexandre Renchon,https://www.socallinuxexpo.org/scale/22x/presentations/standing-code-advancing-scientific-discovery-through-sustainable-software,Room 211,Everyone
 Friday,10:00,Embedded Programming Workshop Day 2,Steve Oualline,https://www.socallinuxexpo.org/scale/22x/presentations/embedded-programming-workshop-day-2,Room 209,Developer
 Friday,10:00,Seamless migration from VMware to OpenStack using vJailbreak tool,"Pooja Ghumre, Chris Jones",https://www.socallinuxexpo.org/scale/22x/presentations/seamless-migration-vmware-openstack-using-vjailbreak-tool,Room 106,Everyone
@@ -84,9 +83,10 @@ Friday,10:00,Adventures in Mesh Networking at DEF CON with NixOS,Morgan Jones,ht
 Friday,10:00,Boosting MySQL with Vector Search: Introducing the MyVector Plugin,Alkin Tezuysal,https://www.socallinuxexpo.org/scale/22x/presentations/boosting-mysql-vector-search-introducing-myvector-plugin,Ballroom H,Advanced
 Friday,10:00,Take your pgBadger usage to the next level!,Henrietta Dombrovskaya,https://www.socallinuxexpo.org/scale/22x/presentations/take-your-pgbadger-usage-next-level,Ballroom G,Everyone
 Friday,10:00,LLMs with Your Data in Your Applications,Matt Ingenthron,https://www.socallinuxexpo.org/scale/22x/presentations/llms-your-data-your-applications,Ballroom F,Developer
-Friday,10:00,What's an Anthropologist doing in Meta's Infrastructure?,"Kathryn ""Casey"" Bouskill",https://www.socallinuxexpo.org/scale/22x/presentations/whats-anthropologist-doing-metas-infrastructure,Ballroom DE,Everyone
+Friday,10:00,What's an Anthropologist doing in Meta's Infrastructure?,Kathryn Casey Bouskill,https://www.socallinuxexpo.org/scale/22x/presentations/whats-anthropologist-doing-metas-infrastructure,Ballroom DE,Everyone
 Friday,10:00,Lessons learnt from Open-Source Implementation in the Mexican Government,Federico Gonzalez-Waite,https://www.socallinuxexpo.org/scale/22x/presentations/lessons-learnt-open-source-implementation-mexican-government,Ballroom C,Everyone
 Friday,10:00,A Hitchhikers Guide to the CNCF Landscape,"Lori Lorusso, Katherine Druckman",https://www.socallinuxexpo.org/scale/22x/presentations/hitchhikers-guide-cncf-landscape,Ballroom B,Everyone
+Friday,10:00,The Cloud Has Made Us Reckless,Tim Banks,https://www.socallinuxexpo.org/scale/22x/presentations/cloud-has-made-us-reckless,Ballroom A,Everyone
 Friday,10:30,"Sponsor Talk: How to Simplify and Accelerate VMware Migration to OpenStack using Universal Backup, Recovery and Migration Solution",DJ MIN,https://www.socallinuxexpo.org/scale/22x/presentations/sponsor-talk-how-simplify-and-accelerate-vmware-migration-openstack-using,Room 106,Everyone
 Friday,10:30,Building a Chromebook replacement with NixOS,Mike Kelly,https://www.socallinuxexpo.org/scale/22x/presentations/building-chromebook-replacement-nixos,Room 101,PlanetNix
 Friday,11:00,Kolla User Forum,Michal Nasiadka,https://www.socallinuxexpo.org/scale/22x/presentations/kolla-user-forum,Room 212,Everyone
@@ -170,8 +170,8 @@ Saturday,11:15,Scalable and Low Latency Lock-free Data Structures,Alexander Kriz
 Saturday,11:15,Observability at Tigris Data,Peter Boros,https://www.socallinuxexpo.org/scale/22x/presentations/observability-tigris-data,Room 107,Everyone
 Saturday,11:15,Gotchas of Everyday Systemd,Anita Zhang,https://www.socallinuxexpo.org/scale/22x/presentations/gotchas-everyday-systemd,Room 106,Developer
 Saturday,11:15,Baking a TuringPi in the Home Lab,Matthew Sanabria,https://www.socallinuxexpo.org/scale/22x/presentations/baking-turingpi-home-lab,Room 105,Everyone
-Saturday,11:15,Making Linux From Scratch,August Cho,https://www.socallinuxexpo.org/scale/22x/presentations/making-linux-scratch,Room 103,Beginner
 Saturday,11:15,Shining Light on the Open Source Supply Chain: The Risk in Community Health,Georg Link,https://www.socallinuxexpo.org/scale/22x/presentations/shining-light-open-source-supply-chain-risk-community-health,Room 101,Advanced
+Saturday,11:15,Making Linux From Scratch,August Cho,https://www.socallinuxexpo.org/scale/22x/presentations/making-linux-scratch,Room 103,Beginner
 Saturday,11:15,Source Available is Thriving but Open Source is Dying,Hazel Weakly,https://www.socallinuxexpo.org/scale/22x/presentations/source-available-thriving-open-source-dying,Ballroom H,Everyone
 Saturday,11:15,How to do Everything in a Terminal,Jared Bernard,https://www.socallinuxexpo.org/scale/22x/presentations/how-do-everything-terminal,Ballroom G,Everyone
 Saturday,11:15,Enhancing Occupational Classification and Seniority Prediction from Job Descriptions Using Open-Source Tools and Embedding Techniques,Sinan Kefeli,https://www.socallinuxexpo.org/scale/22x/presentations/enhancing-occupational-classification-and-seniority-prediction-job,Ballroom F,Intermediate
@@ -184,25 +184,25 @@ Saturday,12:30,Profiling and beyond: scaling observability with Fluent Bit and e
 Saturday,12:30,Advanced SRE: Networking,Patrick Shuff,https://www.socallinuxexpo.org/scale/22x/presentations/advanced-sre-networking,Room 106,Advanced
 Saturday,12:30,Are we really making the most of our smart home technology?,Joyce Lin,https://www.socallinuxexpo.org/scale/22x/presentations/are-we-really-making-most-our-smart-home-technology,Room 105,Everyone
 Saturday,12:30,Managing Infrastructure for Confidential AI using OpenStack,"Divya KK, Srirama Sharma",https://www.socallinuxexpo.org/scale/22x/presentations/managing-infrastructure-confidential-ai-using-openstack,Room 101,Intermediate
-Saturday,12:30,Taming the Chaos: What's Next in Engineering,"Ron Efroni, Michael Stahnke, Kelsey Hightower, Katherine Druckman",https://www.socallinuxexpo.org/scale/22x/presentations/taming-chaos-whats-next-engineering,Ballroom H,Everyone
 Saturday,12:30,Choose your benefactor: Common Good or Corporate Good,benny Vasquez,https://www.socallinuxexpo.org/scale/22x/presentations/choose-your-benefactor-common-good-or-corporate-good,Ballroom G,Everyone
+Saturday,12:30,Taming the Chaos: What's Next in Engineering,"Ron Efroni, Michael Stahnke, Kelsey Hightower, Katherine Druckman",https://www.socallinuxexpo.org/scale/22x/presentations/taming-chaos-whats-next-engineering,Ballroom H,Everyone
 Saturday,12:30,Keeping Things Local - Making Your Own Private LLM,Bronwen Aker,https://www.socallinuxexpo.org/scale/22x/presentations/keeping-things-local-making-your-own-private-llm,Ballroom F,Everyone
 Saturday,12:30,Writing Production Ready Schedulers using Sched Ext,"Jake Hillion, Daniel Hodges",https://www.socallinuxexpo.org/scale/22x/presentations/writing-production-ready-schedulers-using-sched-ext,Ballroom C,Developer
-Saturday,12:30,Scalable Open Source Data Science on Bare Metal Kubernetes,Scott Williams,https://www.socallinuxexpo.org/scale/22x/presentations/scalable-open-source-data-science-bare-metal-kubernetes,Ballroom B,Intermediate
 Saturday,12:30,Better latency with fewer servers: avoiding RAM noisy neighbors,Jonathan Perry,https://www.socallinuxexpo.org/scale/22x/presentations/better-latency-fewer-servers-avoiding-ram-noisy-neighbors,Ballroom A,Intermediate
+Saturday,12:30,Scalable Open Source Data Science on Bare Metal Kubernetes,Scott Williams,https://www.socallinuxexpo.org/scale/22x/presentations/scalable-open-source-data-science-bare-metal-kubernetes,Ballroom B,Intermediate
 Saturday,13:00,Scam–Spotting 101: How to Identify Phishing and Fake Messages,"Jonah Ibarra, Eisly Morales",https://www.socallinuxexpo.org/scale/22x/presentations/scam%E2%80%93spotting-101-how-identify-phishing-and-fake-messages,Room 103,Everyone
 Saturday,14:30,The Research Software Engineering Revolution,Gabriele Bozzola,https://www.socallinuxexpo.org/scale/22x/presentations/research-software-engineering-revolution,Room 211,Everyone
 Saturday,14:30,Modernizing Systems Observability with AI and LLMs,Jason Hand,https://www.socallinuxexpo.org/scale/22x/presentations/modernizing-systems-observability-ai-and-llms,Room 107,Developer
-Saturday,14:30,"What the Heck is KiCad, and Can I Really Make My Own Electronics?",Jon Cruz,https://www.socallinuxexpo.org/scale/22x/presentations/what-heck-kicad-and-can-i-really-make-my-own-electronics,Room 105,Beginner
 Saturday,14:30,99 package problems,Kevin Mittman,https://www.socallinuxexpo.org/scale/22x/presentations/99-package-problems,Room 106,Intermediate
+Saturday,14:30,"What the Heck is KiCad, and Can I Really Make My Own Electronics?",Jon Cruz,https://www.socallinuxexpo.org/scale/22x/presentations/what-heck-kicad-and-can-i-really-make-my-own-electronics,Room 105,Beginner
 Saturday,14:30,Be Your Own AWS,Brady Hancock,https://www.socallinuxexpo.org/scale/22x/presentations/be-your-own-aws,Room 103,Everyone
 Saturday,14:30,Navigating Security in Generative AI Development,Katherine Druckman,https://www.socallinuxexpo.org/scale/22x/presentations/navigating-security-generative-ai-development,Room 101,Everyone
-Saturday,14:30,MapLibre: An Introduction to Its Use and Its Community,Tarus Balog,https://www.socallinuxexpo.org/scale/22x/presentations/maplibre-introduction-its-use-and-its-community,Ballroom G,Beginner
 Saturday,14:30,The JOY of Free Software: It should be fun to fish,maddog Hall,https://www.socallinuxexpo.org/scale/22x/presentations/joy-free-software-it-should-be-fun-fish,Ballroom H,Everyone
+Saturday,14:30,MapLibre: An Introduction to Its Use and Its Community,Tarus Balog,https://www.socallinuxexpo.org/scale/22x/presentations/maplibre-introduction-its-use-and-its-community,Ballroom G,Beginner
 Saturday,14:30,AI-Powered Searches with Cassandra,Bassam Chahine,https://www.socallinuxexpo.org/scale/22x/presentations/ai-powered-searches-cassandra,Ballroom F,Intermediate
 Saturday,14:30,A simpler and faster firewall with bpfilter,Quentin Deslandes,https://www.socallinuxexpo.org/scale/22x/presentations/simpler-and-faster-firewall-bpfilter,Ballroom C,Intermediate
-Saturday,14:30,Universal Blue: Delivering Experiences Using Bootable Containers,"Noel Miller, Kyle Gospodnetich",https://www.socallinuxexpo.org/scale/22x/presentations/universal-blue-delivering-experiences-using-bootable-containers,Ballroom A,Intermediate
 Saturday,14:30,Meshing Your Way to Better Observability,"Ram Ellupuru, Boaz Ardel",https://www.socallinuxexpo.org/scale/22x/presentations/meshing-your-way-better-observability,Ballroom B,Developer
+Saturday,14:30,Universal Blue: Delivering Experiences Using Bootable Containers,"Noel Miller, Kyle Gospodnetich",https://www.socallinuxexpo.org/scale/22x/presentations/universal-blue-delivering-experiences-using-bootable-containers,Ballroom A,Intermediate
 Saturday,15:15,Building Community and Social Capital on the Internet,Alexander Moral,https://www.socallinuxexpo.org/scale/22x/presentations/building-community-and-social-capital-internet,Room 103,Everyone
 Saturday,15:45,The Future is Real-Time Data,Emily Le,https://www.socallinuxexpo.org/scale/22x/presentations/future-real-time-data,Room 211,Intermediate
 Saturday,15:45,Exemplars - A Tale of Pillars Supporting The Observability Structure,"Vijay Samuel, Jing Hu",https://www.socallinuxexpo.org/scale/22x/presentations/exemplars-tale-pillars-supporting-observability-structure,Room 107,Everyone
@@ -240,8 +240,8 @@ Saturday,18:15,Scaling Your Kubernetes Clusters Without Going Broke,Joe Allen,ht
 Saturday,18:15,Dancing with the Pods: Live migration of a database fleet while serving millions of queries,"Jayme Bird, Manish Gill",https://www.socallinuxexpo.org/scale/22x/presentations/dancing-pods-live-migration-database-fleet-while-serving-millions-queries,Ballroom A,Intermediate
 Sunday,09:30,A Hands-On Introduction to Blender + Python,Erik Mondrian,https://www.socallinuxexpo.org/scale/22x/presentations/hands-introduction-blender-python,Room 209,Everyone
 Sunday,09:30,Linux Training Class - Day 2,Tom King,https://www.socallinuxexpo.org/scale/22x/presentations/linux-training-class-day-2,Room 208,Workshops
-Sunday,10:00,Workshop: Improve your resume and interview skills by experiencing the interviewers perspective,Jenson Crawford,https://www.socallinuxexpo.org/scale/22x/presentations/workshop-improve-your-resume-and-interview-skills-experiencing-interviewers,Room 104,Everyone
 Sunday,10:00,Candidate Experience Done Right: Practical Strategies for Open Source Hiring Teams,Mary Kypreos,https://www.socallinuxexpo.org/scale/22x/presentations/candidate-experience-done-right-practical-strategies-open-source-hiring,Room 103,Everyone
+Sunday,10:00,Workshop: Improve your resume and interview skills by experiencing the interviewers perspective,Jenson Crawford,https://www.socallinuxexpo.org/scale/22x/presentations/workshop-improve-your-resume-and-interview-skills-experiencing-interviewers,Room 104,Everyone
 Sunday,10:30,What happens when hardware puts software freedom first?  We built a router to find out,Denver Gingerich,https://www.socallinuxexpo.org/scale/22x/presentations/what-happens-when-hardware-puts-software-freedom-first-we-built-router-find,Ballroom DE,Everyone
 Sunday,11:00,How to make video game vegetation sway,Tom Lechner,https://www.socallinuxexpo.org/scale/22x/presentations/how-make-video-game-vegetation-sway,Room 209,Beginner
 Sunday,11:00,Why You Should Join a Community,Amy Marrich,https://www.socallinuxexpo.org/scale/22x/presentations/why-you-should-join-community,Room 103,Everyone
@@ -250,8 +250,8 @@ Sunday,11:45,Scaling Observability with Loki at Dropbox,"Alok Ranjan, Paul Shen"
 Sunday,11:45,Deploying AI/ML Pipelines at Crexi,"Xpaul Vigil, Isaac Smothers",https://www.socallinuxexpo.org/scale/22x/presentations/deploying-aiml-pipelines-crexi,Room 106,Advanced
 Sunday,11:45,Controlling Robots like NASA,"Adrian Todorov, Kerim Satirli",https://www.socallinuxexpo.org/scale/22x/presentations/controlling-robots-nasa,Room 105,Developer
 Sunday,11:45,Online Payments: Attack and Defense,Vincent Sloan,https://www.socallinuxexpo.org/scale/22x/presentations/online-payments-attack-and-defense,Room 101,Everyone
-Sunday,11:45,An Introduction to Post-Quantum Cryptography for Linux System Administrators,"Atom Ramirez, Marie Ramirez",https://www.socallinuxexpo.org/scale/22x/presentations/introduction-post-quantum-cryptography-linux-system-administrators,Ballroom H,Everyone
 Sunday,11:45,Copyleft and the GPL: Finding the Path Forward to Defend our Software Right to Repair,Bradley Kuhn,https://www.socallinuxexpo.org/scale/22x/presentations/copyleft-and-gpl-finding-path-forward-defend-our-software-right-repair,Ballroom G,Everyone
+Sunday,11:45,An Introduction to Post-Quantum Cryptography for Linux System Administrators,"Atom Ramirez, Marie Ramirez",https://www.socallinuxexpo.org/scale/22x/presentations/introduction-post-quantum-cryptography-linux-system-administrators,Ballroom H,Everyone
 Sunday,11:45,Open Source for Real-Time Voice Understanding: An Edge AI Solution,Zubair Talib,https://www.socallinuxexpo.org/scale/22x/presentations/open-source-real-time-voice-understanding-edge-ai-solution,Ballroom F,Developer
 Sunday,11:45,Towards improving code integrity on Linux,Sriram Nambakam,https://www.socallinuxexpo.org/scale/22x/presentations/towards-improving-code-integrity-linux,Ballroom C,Advanced
 Sunday,11:45,Prepare to Perform with Backstage Software Templates,Ryan Jarvinen,https://www.socallinuxexpo.org/scale/22x/presentations/prepare-perform-backstage-software-templates,Ballroom B,Advanced
@@ -261,13 +261,13 @@ Sunday,13:00,Career Workshop: Interviews and Negotiations in Open Source,Jenson 
 Sunday,13:00,Using Certification to Prove Home Lab Skills,Adrianna Frick,https://www.socallinuxexpo.org/scale/22x/presentations/using-certification-prove-home-lab-skills,Room 103,Everyone
 Sunday,13:30,"darktable: the fundamentals, advanced techniques, and discussion",Mica Semrick,https://www.socallinuxexpo.org/scale/22x/presentations/darktable-fundamentals-advanced-techniques-and-discussion,Room 209,Everyone
 Sunday,13:45,Cloud Development Environments Are Strategic Assets,Tim Quinlan,https://www.socallinuxexpo.org/scale/22x/presentations/cloud-development-environments-are-strategic-assets,Room 211,Developer
-Sunday,13:45,Beyond Replication: A Holistic Approach to Application Scaling,Josh Thornton,https://www.socallinuxexpo.org/scale/22x/presentations/beyond-replication-holistic-approach-application-scaling,Room 106,Everyone
 Sunday,13:45,Beyond Sequential: A Recipe for Async Pipeline Observability and Alerting,"Jash Mistry, Gabriela Medvetska",https://www.socallinuxexpo.org/scale/22x/presentations/beyond-sequential-recipe-async-pipeline-observability-and-alerting,Room 107,Developer
+Sunday,13:45,Beyond Replication: A Holistic Approach to Application Scaling,Josh Thornton,https://www.socallinuxexpo.org/scale/22x/presentations/beyond-replication-holistic-approach-application-scaling,Room 106,Everyone
 Sunday,13:45,Nextcloud as A Self-Hosted Cross-Platform Cloud,Kyle Rankin,https://www.socallinuxexpo.org/scale/22x/presentations/nextcloud-self-hosted-cross-platform-cloud,Room 105,Everyone
 Sunday,13:45,"Defense in Depth, as learned from watching football",Kennedy Toomey,https://www.socallinuxexpo.org/scale/22x/presentations/defense-depth-learned-watching-football,Room 101,Everyone
 Sunday,13:45,Meet COSMIC DE,Carl Richell,https://www.socallinuxexpo.org/scale/22x/presentations/meet-cosmic-de,Ballroom H,Everyone
-Sunday,13:45,RamaLama making AI Boring,James Huang,https://www.socallinuxexpo.org/scale/22x/presentations/ramalama-making-ai-boring,Ballroom G,Beginner
 Sunday,13:45,"Everything I Need to Know About LLM, I Learned From A Pasadena Search Company 24 Years Ago",Gene Chuang,https://www.socallinuxexpo.org/scale/22x/presentations/everything-i-need-know-about-llm-i-learned-pasadena-search-company-24-years,Ballroom F,Everyone
+Sunday,13:45,RamaLama making AI Boring,James Huang,https://www.socallinuxexpo.org/scale/22x/presentations/ramalama-making-ai-boring,Ballroom G,Beginner
 Sunday,13:45,Bringing Per-CPU Variables to Rust-for-Linux,Mitchell Levy,https://www.socallinuxexpo.org/scale/22x/presentations/bringing-cpu-variables-rust-linux,Ballroom C,Intermediate
 Sunday,13:45,From Pull Request to Live Environment: Automating Ephemeral Environments,Vahan Melikyan,https://www.socallinuxexpo.org/scale/22x/presentations/pull-request-live-environment-automating-ephemeral-environments,Ballroom B,Everyone
 Sunday,13:45,CloudOps for your databases: a new paradigm for managing your data stores,Colin Charles,https://www.socallinuxexpo.org/scale/22x/presentations/cloudops-your-databases-new-paradigm-managing-your-data-stores,Ballroom A,Everyone

@@ -14,21 +14,25 @@
   - Joe Thompson
   - 10:00 - Ballroom A
 
-- [pAI-OS Workshop](https://www.socallinuxexpo.org/scale/22x/presentations/pai-os-workshop)
-  - Sam Johnston
-  - 10:00 - Room 212
+- [Progressive Delivery with Argo Rollouts](https://www.socallinuxexpo.org/scale/22x/presentations/progressive-delivery-argo-rollouts)
+  - Ryan Jarvinen, Evan Shortiss, Christian Hernandez
+  - 10:00 - Ballroom B
 
 - [Open Source for Good](https://www.socallinuxexpo.org/scale/22x/presentations/open-source-good)
   - Cynthia Lo, Avni Khatri, Margaret Tucker
   - 10:00 - Room 211
 
-- [Power Editing with vi](https://www.socallinuxexpo.org/scale/22x/presentations/power-editing-vi)
-  - Aleksey Tsalolikhin
-  - 10:00 - Room 208
+- [pAI-OS Workshop](https://www.socallinuxexpo.org/scale/22x/presentations/pai-os-workshop)
+  - Sam Johnston
+  - 10:00 - Room 212
 
 - [Embedded Programming Workshop Day 1](https://www.socallinuxexpo.org/scale/22x/presentations/embedded-programming-workshop-day-1)
   - Steve Oualline
   - 10:00 - Room 209
+
+- [Power Editing with vi](https://www.socallinuxexpo.org/scale/22x/presentations/power-editing-vi)
+  - Aleksey Tsalolikhin
+  - 10:00 - Room 208
 
 - [SunSecCon Workshop: Cooking Cyber Recipes with CyberChef](https://www.socallinuxexpo.org/scale/22x/presentations/sunseccon-workshop-cooking-cyber-recipes-cyberchef)
   - Marco Palacios
@@ -45,10 +49,6 @@
 - [A look at the Elephant's trunk - PostgreSQL 18](https://www.socallinuxexpo.org/scale/22x/presentations/look-elephants-trunk-postgresql-18)
   - Magnus Hagander
   - 10:00 - Ballroom G
-
-- [Progressive Delivery with Argo Rollouts](https://www.socallinuxexpo.org/scale/22x/presentations/progressive-delivery-argo-rollouts)
-  - Ryan Jarvinen, Evan Shortiss, Christian Hernandez
-  - 10:00 - Ballroom B
 
 - [Getting Started With OpenStack](https://www.socallinuxexpo.org/scale/22x/presentations/getting-started-openstack)
   - Amy Marrich
@@ -86,10 +86,6 @@
   - Nick Johnstone
   - 11:30 - Room 101
 
-- [Welcome to Kwaai Summit](https://www.socallinuxexpo.org/scale/22x/presentations/welcome-kwaai-summit)
-  - Matthew Small, Reza Rassool
-  - 12:00 - Ballroom F
-
 - [Project Gating with Zuul](https://www.socallinuxexpo.org/scale/22x/presentations/project-gating-zuul)
   - James Blair
   - 12:00 - Room 107
@@ -97,6 +93,10 @@
 - [Knowing is Half the Battle: End to End Observability in OpenStack on Kubernetes](https://www.socallinuxexpo.org/scale/22x/presentations/knowing-half-battle-end-end-observability-openstack-kubernetes)
   - Jamie Parker
   - 12:00 - Room 106
+
+- [Welcome to Kwaai Summit](https://www.socallinuxexpo.org/scale/22x/presentations/welcome-kwaai-summit)
+  - Matthew Small, Reza Rassool
+  - 12:00 - Ballroom F
 
 - [AI in Education: Amplified Intelligence through Games](https://www.socallinuxexpo.org/scale/22x/presentations/ai-education-amplified-intelligence-through-games)
   - Nolan Bushnell
@@ -138,9 +138,9 @@
   - Ross Turk
   - 13:30 - Room 101
 
-- [Developing as a Team for Kubernetes with Nix and Flox](https://www.socallinuxexpo.org/scale/22x/presentations/developing-team-kubernetes-nix-and-flox)
-  - Leigh Capili, Tanja Ulianova, Nick Lewis
-  - 14:00 - Ballroom B
+- [So you want to be a Kubestronaut](https://www.socallinuxexpo.org/scale/22x/presentations/so-you-want-be-kubestronaut)
+  - Paul Yu
+  - 14:00 - Ballroom A
 
 - [bpftrace hands on lab](https://www.socallinuxexpo.org/scale/22x/presentations/bpftrace-hands-lab)
   - Jonathan Haslam, Jordan Rome, Daniel Xu
@@ -158,9 +158,9 @@
   - Doc Searls, Fay Arjomandi, Reza Rassool, Nolan Bushnell
   - 14:00 - Ballroom F
 
-- [So you want to be a Kubestronaut](https://www.socallinuxexpo.org/scale/22x/presentations/so-you-want-be-kubestronaut)
-  - Paul Yu
-  - 14:00 - Ballroom A
+- [Developing as a Team for Kubernetes with Nix and Flox](https://www.socallinuxexpo.org/scale/22x/presentations/developing-team-kubernetes-nix-and-flox)
+  - Leigh Capili, Tanja Ulianova, Nick Lewis
+  - 14:00 - Ballroom B
 
 - [RDO openstack on OKD kubernetes: The perfect combination for modern enterprise datacenter](https://www.socallinuxexpo.org/scale/22x/presentations/rdo-openstack-okd-kubernetes-perfect-combination-modern-enterprise)
   - Maciej Lecki
@@ -304,10 +304,6 @@
   - Michael Stahnke
   - 09:30 - Room 101
 
-- [The Cloud Has Made Us Reckless](https://www.socallinuxexpo.org/scale/22x/presentations/cloud-has-made-us-reckless)
-  - Tim Banks
-  - 10:00 - Ballroom A
-
 - [Standing on Code: Advancing Scientific Discovery Through Sustainable Software Practices](https://www.socallinuxexpo.org/scale/22x/presentations/standing-code-advancing-scientific-discovery-through-sustainable-software)
   - Alexandre Renchon
   - 10:00 - Room 211
@@ -345,7 +341,7 @@
   - 10:00 - Ballroom F
 
 - [What's an Anthropologist doing in Meta's Infrastructure?](https://www.socallinuxexpo.org/scale/22x/presentations/whats-anthropologist-doing-metas-infrastructure)
-  - Kathryn "Casey" Bouskill
+  - Kathryn Casey Bouskill
   - 10:00 - Ballroom DE
 
 - [Lessons learnt from Open-Source Implementation in the Mexican Government](https://www.socallinuxexpo.org/scale/22x/presentations/lessons-learnt-open-source-implementation-mexican-government)
@@ -355,6 +351,10 @@
 - [A Hitchhikers Guide to the CNCF Landscape](https://www.socallinuxexpo.org/scale/22x/presentations/hitchhikers-guide-cncf-landscape)
   - Lori Lorusso, Katherine Druckman
   - 10:00 - Ballroom B
+
+- [The Cloud Has Made Us Reckless](https://www.socallinuxexpo.org/scale/22x/presentations/cloud-has-made-us-reckless)
+  - Tim Banks
+  - 10:00 - Ballroom A
 
 - [Sponsor Talk: How to Simplify and Accelerate VMware Migration to OpenStack using Universal Backup, Recovery and Migration Solution](https://www.socallinuxexpo.org/scale/22x/presentations/sponsor-talk-how-simplify-and-accelerate-vmware-migration-openstack-using)
   - DJ MIN
@@ -690,13 +690,13 @@
   - Matthew Sanabria
   - 11:15 - Room 105
 
-- [Making Linux From Scratch](https://www.socallinuxexpo.org/scale/22x/presentations/making-linux-scratch)
-  - August Cho
-  - 11:15 - Room 103
-
 - [Shining Light on the Open Source Supply Chain: The Risk in Community Health](https://www.socallinuxexpo.org/scale/22x/presentations/shining-light-open-source-supply-chain-risk-community-health)
   - Georg Link
   - 11:15 - Room 101
+
+- [Making Linux From Scratch](https://www.socallinuxexpo.org/scale/22x/presentations/making-linux-scratch)
+  - August Cho
+  - 11:15 - Room 103
 
 - [Source Available is Thriving but Open Source is Dying](https://www.socallinuxexpo.org/scale/22x/presentations/source-available-thriving-open-source-dying)
   - Hazel Weakly
@@ -746,13 +746,13 @@
   - Divya KK, Srirama Sharma
   - 12:30 - Room 101
 
-- [Taming the Chaos: What's Next in Engineering](https://www.socallinuxexpo.org/scale/22x/presentations/taming-chaos-whats-next-engineering)
-  - Ron Efroni, Michael Stahnke, Kelsey Hightower, Katherine Druckman
-  - 12:30 - Ballroom H
-
 - [Choose your benefactor: Common Good or Corporate Good](https://www.socallinuxexpo.org/scale/22x/presentations/choose-your-benefactor-common-good-or-corporate-good)
   - benny Vasquez
   - 12:30 - Ballroom G
+
+- [Taming the Chaos: What's Next in Engineering](https://www.socallinuxexpo.org/scale/22x/presentations/taming-chaos-whats-next-engineering)
+  - Ron Efroni, Michael Stahnke, Kelsey Hightower, Katherine Druckman
+  - 12:30 - Ballroom H
 
 - [Keeping Things Local - Making Your Own Private LLM](https://www.socallinuxexpo.org/scale/22x/presentations/keeping-things-local-making-your-own-private-llm)
   - Bronwen Aker
@@ -762,13 +762,13 @@
   - Jake Hillion, Daniel Hodges
   - 12:30 - Ballroom C
 
-- [Scalable Open Source Data Science on Bare Metal Kubernetes](https://www.socallinuxexpo.org/scale/22x/presentations/scalable-open-source-data-science-bare-metal-kubernetes)
-  - Scott Williams
-  - 12:30 - Ballroom B
-
 - [Better latency with fewer servers: avoiding RAM noisy neighbors](https://www.socallinuxexpo.org/scale/22x/presentations/better-latency-fewer-servers-avoiding-ram-noisy-neighbors)
   - Jonathan Perry
   - 12:30 - Ballroom A
+
+- [Scalable Open Source Data Science on Bare Metal Kubernetes](https://www.socallinuxexpo.org/scale/22x/presentations/scalable-open-source-data-science-bare-metal-kubernetes)
+  - Scott Williams
+  - 12:30 - Ballroom B
 
 - [Scam–Spotting 101: How to Identify Phishing and Fake Messages](https://www.socallinuxexpo.org/scale/22x/presentations/scam%E2%80%93spotting-101-how-identify-phishing-and-fake-messages)
   - Jonah Ibarra, Eisly Morales
@@ -782,13 +782,13 @@
   - Jason Hand
   - 14:30 - Room 107
 
-- [What the Heck is KiCad, and Can I Really Make My Own Electronics?](https://www.socallinuxexpo.org/scale/22x/presentations/what-heck-kicad-and-can-i-really-make-my-own-electronics)
-  - Jon Cruz
-  - 14:30 - Room 105
-
 - [99 package problems](https://www.socallinuxexpo.org/scale/22x/presentations/99-package-problems)
   - Kevin Mittman
   - 14:30 - Room 106
+
+- [What the Heck is KiCad, and Can I Really Make My Own Electronics?](https://www.socallinuxexpo.org/scale/22x/presentations/what-heck-kicad-and-can-i-really-make-my-own-electronics)
+  - Jon Cruz
+  - 14:30 - Room 105
 
 - [Be Your Own AWS](https://www.socallinuxexpo.org/scale/22x/presentations/be-your-own-aws)
   - Brady Hancock
@@ -798,13 +798,13 @@
   - Katherine Druckman
   - 14:30 - Room 101
 
-- [MapLibre: An Introduction to Its Use and Its Community](https://www.socallinuxexpo.org/scale/22x/presentations/maplibre-introduction-its-use-and-its-community)
-  - Tarus Balog
-  - 14:30 - Ballroom G
-
 - [The JOY of Free Software: It should be fun to fish](https://www.socallinuxexpo.org/scale/22x/presentations/joy-free-software-it-should-be-fun-fish)
   - maddog Hall
   - 14:30 - Ballroom H
+
+- [MapLibre: An Introduction to Its Use and Its Community](https://www.socallinuxexpo.org/scale/22x/presentations/maplibre-introduction-its-use-and-its-community)
+  - Tarus Balog
+  - 14:30 - Ballroom G
 
 - [AI-Powered Searches with Cassandra](https://www.socallinuxexpo.org/scale/22x/presentations/ai-powered-searches-cassandra)
   - Bassam Chahine
@@ -814,13 +814,13 @@
   - Quentin Deslandes
   - 14:30 - Ballroom C
 
-- [Universal Blue: Delivering Experiences Using Bootable Containers](https://www.socallinuxexpo.org/scale/22x/presentations/universal-blue-delivering-experiences-using-bootable-containers)
-  - Noel Miller, Kyle Gospodnetich
-  - 14:30 - Ballroom A
-
 - [Meshing Your Way to Better Observability](https://www.socallinuxexpo.org/scale/22x/presentations/meshing-your-way-better-observability)
   - Ram Ellupuru, Boaz Ardel
   - 14:30 - Ballroom B
+
+- [Universal Blue: Delivering Experiences Using Bootable Containers](https://www.socallinuxexpo.org/scale/22x/presentations/universal-blue-delivering-experiences-using-bootable-containers)
+  - Noel Miller, Kyle Gospodnetich
+  - 14:30 - Ballroom A
 
 - [Building Community and Social Capital on the Internet](https://www.socallinuxexpo.org/scale/22x/presentations/building-community-and-social-capital-internet)
   - Alexander Moral
@@ -972,13 +972,13 @@
   - Tom King
   - 09:30 - Room 208
 
-- [Workshop: Improve your resume and interview skills by experiencing the interviewers perspective](https://www.socallinuxexpo.org/scale/22x/presentations/workshop-improve-your-resume-and-interview-skills-experiencing-interviewers)
-  - Jenson Crawford
-  - 10:00 - Room 104
-
 - [Candidate Experience Done Right: Practical Strategies for Open Source Hiring Teams](https://www.socallinuxexpo.org/scale/22x/presentations/candidate-experience-done-right-practical-strategies-open-source-hiring)
   - Mary Kypreos
   - 10:00 - Room 103
+
+- [Workshop: Improve your resume and interview skills by experiencing the interviewers perspective](https://www.socallinuxexpo.org/scale/22x/presentations/workshop-improve-your-resume-and-interview-skills-experiencing-interviewers)
+  - Jenson Crawford
+  - 10:00 - Room 104
 
 - [What happens when hardware puts software freedom first?  We built a router to find out](https://www.socallinuxexpo.org/scale/22x/presentations/what-happens-when-hardware-puts-software-freedom-first-we-built-router-find)
   - Denver Gingerich
@@ -1012,13 +1012,13 @@
   - Vincent Sloan
   - 11:45 - Room 101
 
-- [An Introduction to Post-Quantum Cryptography for Linux System Administrators](https://www.socallinuxexpo.org/scale/22x/presentations/introduction-post-quantum-cryptography-linux-system-administrators)
-  - Atom Ramirez, Marie Ramirez
-  - 11:45 - Ballroom H
-
 - [Copyleft and the GPL: Finding the Path Forward to Defend our Software Right to Repair](https://www.socallinuxexpo.org/scale/22x/presentations/copyleft-and-gpl-finding-path-forward-defend-our-software-right-repair)
   - Bradley Kuhn
   - 11:45 - Ballroom G
+
+- [An Introduction to Post-Quantum Cryptography for Linux System Administrators](https://www.socallinuxexpo.org/scale/22x/presentations/introduction-post-quantum-cryptography-linux-system-administrators)
+  - Atom Ramirez, Marie Ramirez
+  - 11:45 - Ballroom H
 
 - [Open Source for Real-Time Voice Understanding: An Edge AI Solution](https://www.socallinuxexpo.org/scale/22x/presentations/open-source-real-time-voice-understanding-edge-ai-solution)
   - Zubair Talib
@@ -1056,13 +1056,13 @@
   - Tim Quinlan
   - 13:45 - Room 211
 
-- [Beyond Replication: A Holistic Approach to Application Scaling](https://www.socallinuxexpo.org/scale/22x/presentations/beyond-replication-holistic-approach-application-scaling)
-  - Josh Thornton
-  - 13:45 - Room 106
-
 - [Beyond Sequential: A Recipe for Async Pipeline Observability and Alerting](https://www.socallinuxexpo.org/scale/22x/presentations/beyond-sequential-recipe-async-pipeline-observability-and-alerting)
   - Jash Mistry, Gabriela Medvetska
   - 13:45 - Room 107
+
+- [Beyond Replication: A Holistic Approach to Application Scaling](https://www.socallinuxexpo.org/scale/22x/presentations/beyond-replication-holistic-approach-application-scaling)
+  - Josh Thornton
+  - 13:45 - Room 106
 
 - [Nextcloud as A Self-Hosted Cross-Platform Cloud](https://www.socallinuxexpo.org/scale/22x/presentations/nextcloud-self-hosted-cross-platform-cloud)
   - Kyle Rankin
@@ -1076,13 +1076,13 @@
   - Carl Richell
   - 13:45 - Ballroom H
 
-- [RamaLama making AI Boring](https://www.socallinuxexpo.org/scale/22x/presentations/ramalama-making-ai-boring)
-  - James Huang
-  - 13:45 - Ballroom G
-
 - [Everything I Need to Know About LLM, I Learned From A Pasadena Search Company 24 Years Ago](https://www.socallinuxexpo.org/scale/22x/presentations/everything-i-need-know-about-llm-i-learned-pasadena-search-company-24-years)
   - Gene Chuang
   - 13:45 - Ballroom F
+
+- [RamaLama making AI Boring](https://www.socallinuxexpo.org/scale/22x/presentations/ramalama-making-ai-boring)
+  - James Huang
+  - 13:45 - Ballroom G
 
 - [Bringing Per-CPU Variables to Rust-for-Linux](https://www.socallinuxexpo.org/scale/22x/presentations/bringing-cpu-variables-rust-linux)
   - Mitchell Levy
