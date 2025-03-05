@@ -1,4 +1,4 @@
-all: requirements scrape process static
+all: requirements lint scrape process_events static_site
 
 development-requirements: requirements
 	pip install -r development-requirements.txt
@@ -30,12 +30,12 @@ scrape: clean
 clean:
 	rm -vf events.json public/sorted_events.json public/events.csv public/EVENTS.md
 
-process:
+process_events:
 	echo "# Processing events"
 	python process_events.py > public/EVENTS.md
 
-static:
+static_site:
 	echo "# Creating static site"
-	python create_static_site.py
+	python static_site.py
 
-.PHONY: all requirements scrape clean process
+.PHONY: all requirements lint black isort scrape clean process_events static_site
