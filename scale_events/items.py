@@ -1,5 +1,6 @@
 import scrapy
 
+
 class ScaleEventItem(scrapy.Item):
     speaker = scrapy.Field()
     title = scrapy.Field()
@@ -8,4 +9,3 @@ class ScaleEventItem(scrapy.Item):
     time = scrapy.Field()
     room = scrapy.Field()
     topic = scrapy.Field()
-

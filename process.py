@@ -11,7 +11,7 @@ if __name__ == "__main__":
     events = bios.read("events.json")
     events_with_no_day = []
 
-    print ("# SCaLE 22x Schedule\n")
+    print("# SCaLE 22x Schedule\n")
 
     for day in DAYS:
         print(f"## {day}\n")
@@ -23,5 +23,3 @@ if __name__ == "__main__":
             else:
                 events_with_no_day.append(event)
                 continue
-
-
