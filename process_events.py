@@ -23,9 +23,6 @@ import bios
 DAYS = ["Thursday", "Friday", "Saturday", "Sunday"]
 
 if __name__ == "__main__":
-    """
-    Process the scraped event data and output a markdown file with the schedule.
-    """
     # Load the data coming in
     events = bios.read("events.json")
 
