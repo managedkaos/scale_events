@@ -15,8 +15,8 @@ ifeq ($(CI),true)
 else
 	isort --diff *.py
 	black --diff *.py
-	docker run --rm -v $(PWD):/repo --workdir /repo rhysd/actionlint:latest -color
 endif
+	docker run --rm -v $(PWD):/repo --workdir /repo rhysd/actionlint:latest -color
 
 black:
 	black *.py
