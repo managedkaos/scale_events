@@ -31,6 +31,7 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
+          cache: "pip"
 
       - name: Install dependencies
         run: make development-requirements lint
@@ -48,9 +49,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
+          cache: "pip"
 
       - name: Scrape Events
-        run: make scrape
+        run: make requirements scrape
 
       - name: Process Events
         run: make process_events
