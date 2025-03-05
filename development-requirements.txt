@@ -1,4 +1,5 @@
 black
-pytest
 flake8
-ruff
+isort
+pylint
+pytest

@@ -20,24 +20,6 @@
   {
     "day": "Thursday",
     "time": "10:00",
-    "room": "Ballroom A",
-    "speaker": "Joe Thompson",
-    "title": "Kubernetes For Sysadmins Workshop",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/kubernetes-sysadmins-workshop",
-    "topic": "Intermediate"
-  },
-  {
-    "day": "Thursday",
-    "time": "10:00",
-    "room": "Ballroom B",
-    "speaker": "Ryan Jarvinen, Evan Shortiss, Christian Hernandez",
-    "title": "Progressive Delivery with Argo Rollouts",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/progressive-delivery-argo-rollouts",
-    "topic": "Advanced"
-  },
-  {
-    "day": "Thursday",
-    "time": "10:00",
     "room": "Room 211",
     "speaker": "Cynthia Lo, Avni Khatri, Margaret Tucker",
     "title": "Open Source for Good",
@@ -47,20 +29,20 @@
   {
     "day": "Thursday",
     "time": "10:00",
-    "room": "Room 212",
-    "speaker": "Sam Johnston",
-    "title": "pAI-OS Workshop",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/pai-os-workshop",
-    "topic": "Kwaai Summit"
-  },
-  {
-    "day": "Thursday",
-    "time": "10:00",
     "room": "Room 209",
     "speaker": "Steve Oualline",
     "title": "Embedded Programming Workshop Day 1",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/embedded-programming-workshop-day-1",
     "topic": "Developer"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00",
+    "room": "Room 212",
+    "speaker": "Sam Johnston",
+    "title": "pAI-OS Workshop",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/pai-os-workshop",
+    "topic": "Kwaai Summit"
   },
   {
     "day": "Thursday",
@@ -105,6 +87,24 @@
     "speaker": "Magnus Hagander",
     "title": "A look at the Elephant's trunk - PostgreSQL 18",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/look-elephants-trunk-postgresql-18",
+    "topic": "Intermediate"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00",
+    "room": "Ballroom B",
+    "speaker": "Ryan Jarvinen, Evan Shortiss, Christian Hernandez",
+    "title": "Progressive Delivery with Argo Rollouts",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/progressive-delivery-argo-rollouts",
+    "topic": "Advanced"
+  },
+  {
+    "day": "Thursday",
+    "time": "10:00",
+    "room": "Ballroom A",
+    "speaker": "Joe Thompson",
+    "title": "Kubernetes For Sysadmins Workshop",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/kubernetes-sysadmins-workshop",
     "topic": "Intermediate"
   },
   {
@@ -308,15 +308,6 @@
   {
     "day": "Thursday",
     "time": "14:00",
-    "room": "Ballroom A",
-    "speaker": "Paul Yu",
-    "title": "So you want to be a Kubestronaut",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/so-you-want-be-kubestronaut",
-    "topic": "Everyone"
-  },
-  {
-    "day": "Thursday",
-    "time": "14:00",
     "room": "Room 211",
     "speaker": "Jonathan Haslam, Jordan Rome, Daniel Xu",
     "title": "bpftrace hands on lab",
@@ -358,6 +349,15 @@
     "title": "Developing as a Team for Kubernetes with Nix and Flox",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/developing-team-kubernetes-nix-and-flox",
     "topic": "Developer"
+  },
+  {
+    "day": "Thursday",
+    "time": "14:00",
+    "room": "Ballroom A",
+    "speaker": "Paul Yu",
+    "title": "So you want to be a Kubestronaut",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/so-you-want-be-kubestronaut",
+    "topic": "Everyone"
   },
   {
     "day": "Thursday",
@@ -641,20 +641,20 @@
   {
     "day": "Friday",
     "time": "09:30",
-    "room": "Room 106",
-    "speaker": "Chris Morgan",
-    "title": "The future of OpenStack operators meetups and community",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/future-openstack-operators-meetups-and-community",
-    "topic": "Everyone"
-  },
-  {
-    "day": "Friday",
-    "time": "09:30",
     "room": "Room 104",
     "speaker": "Matteo Fusi",
     "title": "Workshop - Intro to Nix",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/workshop-intro-nix",
     "topic": "PlanetNix"
+  },
+  {
+    "day": "Friday",
+    "time": "09:30",
+    "room": "Room 106",
+    "speaker": "Chris Morgan",
+    "title": "The future of OpenStack operators meetups and community",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/future-openstack-operators-meetups-and-community",
+    "topic": "Everyone"
   },
   {
     "day": "Friday",
@@ -673,6 +673,24 @@
     "title": "Flox as a Guided Path for Nix",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/flox-guided-path-nix",
     "topic": "PlanetNix"
+  },
+  {
+    "day": "Friday",
+    "time": "10:00",
+    "room": "Ballroom A",
+    "speaker": "Tim Banks",
+    "title": "The Cloud Has Made Us Reckless",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/cloud-has-made-us-reckless",
+    "topic": "Everyone"
+  },
+  {
+    "day": "Friday",
+    "time": "10:00",
+    "room": "Ballroom C",
+    "speaker": "Federico Gonzalez-Waite",
+    "title": "Lessons learnt from Open-Source Implementation in the Mexican Government",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/lessons-learnt-open-source-implementation-mexican-government",
+    "topic": "Everyone"
   },
   {
     "day": "Friday",
@@ -767,28 +785,10 @@
   {
     "day": "Friday",
     "time": "10:00",
-    "room": "Ballroom C",
-    "speaker": "Federico Gonzalez-Waite",
-    "title": "Lessons learnt from Open-Source Implementation in the Mexican Government",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/lessons-learnt-open-source-implementation-mexican-government",
-    "topic": "Everyone"
-  },
-  {
-    "day": "Friday",
-    "time": "10:00",
     "room": "Ballroom B",
     "speaker": "Lori Lorusso, Katherine Druckman",
     "title": "A Hitchhikers Guide to the CNCF Landscape",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/hitchhikers-guide-cncf-landscape",
-    "topic": "Everyone"
-  },
-  {
-    "day": "Friday",
-    "time": "10:00",
-    "room": "Ballroom A",
-    "speaker": "Tim Banks",
-    "title": "The Cloud Has Made Us Reckless",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/cloud-has-made-us-reckless",
     "topic": "Everyone"
   },
   {
@@ -1379,6 +1379,24 @@
   {
     "day": "Friday",
     "time": "17:00",
+    "room": "Ballroom B",
+    "speaker": "Adriana Villela, Ana Margarita Medina",
+    "title": "Infrastructure as Code 3 Ways",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/infrastructure-code-3-ways",
+    "topic": "Beginner"
+  },
+  {
+    "day": "Friday",
+    "time": "17:00",
+    "room": "Ballroom H",
+    "speaker": "Mikaël Francoeur",
+    "title": "How Not to Go Bankrupt (and Look Foolish): Mastering Transactions in MySQL",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/how-not-go-bankrupt-and-look-foolish-mastering-transactions-mysql",
+    "topic": "Developer"
+  },
+  {
+    "day": "Friday",
+    "time": "17:00",
     "room": "Room 211",
     "speaker": "Julia Sloan",
     "title": "CliMA: A New Open Source Code for Climate Modeling",
@@ -1415,15 +1433,6 @@
   {
     "day": "Friday",
     "time": "17:00",
-    "room": "Ballroom H",
-    "speaker": "Mikaël Francoeur",
-    "title": "How Not to Go Bankrupt (and Look Foolish): Mastering Transactions in MySQL",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/how-not-go-bankrupt-and-look-foolish-mastering-transactions-mysql",
-    "topic": "Developer"
-  },
-  {
-    "day": "Friday",
-    "time": "17:00",
     "room": "Ballroom G",
     "speaker": "Colin Charles",
     "title": "Understanding PostgreSQL for the MySQL Developer and DBA",
@@ -1456,15 +1465,6 @@
     "title": "Panel: Public tech stacks that work for all",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/panel-public-tech-stacks-work-all",
     "topic": "Everyone"
-  },
-  {
-    "day": "Friday",
-    "time": "17:00",
-    "room": "Ballroom B",
-    "speaker": "Adriana Villela, Ana Margarita Medina",
-    "title": "Infrastructure as Code 3 Ways",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/infrastructure-code-3-ways",
-    "topic": "Beginner"
   },
   {
     "day": "Friday",
@@ -1541,20 +1541,20 @@
   {
     "day": "Saturday",
     "time": "11:15",
-    "room": "Room 101",
-    "speaker": "Georg Link",
-    "title": "Shining Light on the Open Source Supply Chain: The Risk in Community Health",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/shining-light-open-source-supply-chain-risk-community-health",
-    "topic": "Advanced"
-  },
-  {
-    "day": "Saturday",
-    "time": "11:15",
     "room": "Room 103",
     "speaker": "August Cho",
     "title": "Making Linux From Scratch",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/making-linux-scratch",
     "topic": "Beginner"
+  },
+  {
+    "day": "Saturday",
+    "time": "11:15",
+    "room": "Room 101",
+    "speaker": "Georg Link",
+    "title": "Shining Light on the Open Source Supply Chain: The Risk in Community Health",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/shining-light-open-source-supply-chain-risk-community-health",
+    "topic": "Advanced"
   },
   {
     "day": "Saturday",
@@ -1667,19 +1667,19 @@
   {
     "day": "Saturday",
     "time": "12:30",
-    "room": "Ballroom G",
-    "speaker": "benny Vasquez",
-    "title": "Choose your benefactor: Common Good or Corporate Good",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/choose-your-benefactor-common-good-or-corporate-good",
+    "room": "Ballroom H",
+    "speaker": "Ron Efroni, Michael Stahnke, Kelsey Hightower, Katherine Druckman",
+    "title": "Taming the Chaos: What's Next in Engineering",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/taming-chaos-whats-next-engineering",
     "topic": "Everyone"
   },
   {
     "day": "Saturday",
     "time": "12:30",
-    "room": "Ballroom H",
-    "speaker": "Ron Efroni, Michael Stahnke, Kelsey Hightower, Katherine Druckman",
-    "title": "Taming the Chaos: What's Next in Engineering",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/taming-chaos-whats-next-engineering",
+    "room": "Ballroom G",
+    "speaker": "benny Vasquez",
+    "title": "Choose your benefactor: Common Good or Corporate Good",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/choose-your-benefactor-common-good-or-corporate-good",
     "topic": "Everyone"
   },
   {
@@ -1703,19 +1703,19 @@
   {
     "day": "Saturday",
     "time": "12:30",
-    "room": "Ballroom A",
-    "speaker": "Jonathan Perry",
-    "title": "Better latency with fewer servers: avoiding RAM noisy neighbors",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/better-latency-fewer-servers-avoiding-ram-noisy-neighbors",
+    "room": "Ballroom B",
+    "speaker": "Scott Williams",
+    "title": "Scalable Open Source Data Science on Bare Metal Kubernetes",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/scalable-open-source-data-science-bare-metal-kubernetes",
     "topic": "Intermediate"
   },
   {
     "day": "Saturday",
     "time": "12:30",
-    "room": "Ballroom B",
-    "speaker": "Scott Williams",
-    "title": "Scalable Open Source Data Science on Bare Metal Kubernetes",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/scalable-open-source-data-science-bare-metal-kubernetes",
+    "room": "Ballroom A",
+    "speaker": "Jonathan Perry",
+    "title": "Better latency with fewer servers: avoiding RAM noisy neighbors",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/better-latency-fewer-servers-avoiding-ram-noisy-neighbors",
     "topic": "Intermediate"
   },
   {
@@ -2153,15 +2153,6 @@
   {
     "day": "Sunday",
     "time": "09:30",
-    "room": "Room 209",
-    "speaker": "Erik Mondrian",
-    "title": "A Hands-On Introduction to Blender + Python",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/hands-introduction-blender-python",
-    "topic": "Everyone"
-  },
-  {
-    "day": "Sunday",
-    "time": "09:30",
     "room": "Room 208",
     "speaker": "Tom King",
     "title": "Linux Training Class - Day 2",
@@ -2170,11 +2161,11 @@
   },
   {
     "day": "Sunday",
-    "time": "10:00",
-    "room": "Room 103",
-    "speaker": "Mary Kypreos",
-    "title": "Candidate Experience Done Right: Practical Strategies for Open Source Hiring Teams",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/candidate-experience-done-right-practical-strategies-open-source-hiring",
+    "time": "09:30",
+    "room": "Room 209",
+    "speaker": "Erik Mondrian",
+    "title": "A Hands-On Introduction to Blender + Python",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/hands-introduction-blender-python",
     "topic": "Everyone"
   },
   {
@@ -2184,6 +2175,15 @@
     "speaker": "Jenson Crawford",
     "title": "Workshop: Improve your resume and interview skills by experiencing the interviewers perspective",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/workshop-improve-your-resume-and-interview-skills-experiencing-interviewers",
+    "topic": "Everyone"
+  },
+  {
+    "day": "Sunday",
+    "time": "10:00",
+    "room": "Room 103",
+    "speaker": "Mary Kypreos",
+    "title": "Candidate Experience Done Right: Practical Strategies for Open Source Hiring Teams",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/candidate-experience-done-right-practical-strategies-open-source-hiring",
     "topic": "Everyone"
   },
   {
@@ -2212,6 +2212,15 @@
     "title": "Why You Should Join a Community",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/why-you-should-join-community",
     "topic": "Everyone"
+  },
+  {
+    "day": "Sunday",
+    "time": "11:45",
+    "room": "Ballroom A",
+    "speaker": "Daniil Fedotov",
+    "title": "Kanister.io: Application Consistent Backups on Kubernetes",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/kanisterio-application-consistent-backups-kubernetes",
+    "topic": "Intermediate"
   },
   {
     "day": "Sunday",
@@ -2261,19 +2270,19 @@
   {
     "day": "Sunday",
     "time": "11:45",
-    "room": "Ballroom G",
-    "speaker": "Bradley Kuhn",
-    "title": "Copyleft and the GPL: Finding the Path Forward to Defend our Software Right to Repair",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/copyleft-and-gpl-finding-path-forward-defend-our-software-right-repair",
+    "room": "Ballroom H",
+    "speaker": "Atom Ramirez, Marie Ramirez",
+    "title": "An Introduction to Post-Quantum Cryptography for Linux System Administrators",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/introduction-post-quantum-cryptography-linux-system-administrators",
     "topic": "Everyone"
   },
   {
     "day": "Sunday",
     "time": "11:45",
-    "room": "Ballroom H",
-    "speaker": "Atom Ramirez, Marie Ramirez",
-    "title": "An Introduction to Post-Quantum Cryptography for Linux System Administrators",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/introduction-post-quantum-cryptography-linux-system-administrators",
+    "room": "Ballroom G",
+    "speaker": "Bradley Kuhn",
+    "title": "Copyleft and the GPL: Finding the Path Forward to Defend our Software Right to Repair",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/copyleft-and-gpl-finding-path-forward-defend-our-software-right-repair",
     "topic": "Everyone"
   },
   {
@@ -2302,15 +2311,6 @@
     "title": "Prepare to Perform with Backstage Software Templates",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/prepare-perform-backstage-software-templates",
     "topic": "Advanced"
-  },
-  {
-    "day": "Sunday",
-    "time": "11:45",
-    "room": "Ballroom A",
-    "speaker": "Daniil Fedotov",
-    "title": "Kanister.io: Application Consistent Backups on Kubernetes",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/kanisterio-application-consistent-backups-kubernetes",
-    "topic": "Intermediate"
   },
   {
     "day": "Sunday",
@@ -2405,20 +2405,20 @@
   {
     "day": "Sunday",
     "time": "13:45",
-    "room": "Ballroom F",
-    "speaker": "Gene Chuang",
-    "title": "Everything I Need to Know About LLM, I Learned From A Pasadena Search Company 24 Years Ago",
-    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/everything-i-need-know-about-llm-i-learned-pasadena-search-company-24-years",
-    "topic": "Everyone"
-  },
-  {
-    "day": "Sunday",
-    "time": "13:45",
     "room": "Ballroom G",
     "speaker": "James Huang",
     "title": "RamaLama making AI Boring",
     "url": "https://www.socallinuxexpo.org/scale/22x/presentations/ramalama-making-ai-boring",
     "topic": "Beginner"
+  },
+  {
+    "day": "Sunday",
+    "time": "13:45",
+    "room": "Ballroom F",
+    "speaker": "Gene Chuang",
+    "title": "Everything I Need to Know About LLM, I Learned From A Pasadena Search Company 24 Years Ago",
+    "url": "https://www.socallinuxexpo.org/scale/22x/presentations/everything-i-need-know-about-llm-i-learned-pasadena-search-company-24-years",
+    "topic": "Everyone"
   },
   {
     "day": "Sunday",
