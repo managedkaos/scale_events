@@ -1,4 +1,5 @@
 import scrapy
+
 from scale_events.items import ScaleEventItem
 
 

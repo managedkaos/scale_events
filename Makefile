@@ -1,3 +1,4 @@
+PYTHON_FILES := $(shell find . -type f -name \*.py)
 all: requirements lint scrape process_events static_site
 
 development-requirements: requirements
@@ -10,19 +11,19 @@ lint:
 	flake8 *.py
 	pylint *.py
 ifeq ($(CI),true)
-	isort --check-only *.py
-	black --check *.py
+	isort --check-only $(PYTHON_FILES)
+	black --check $(PYTHON_FILES)
 else
-	isort --diff *.py
-	black --diff *.py
+	isort --diff $(PYTHON_FILES)
+	black --diff $(PYTHON_FILES)
 endif
 	docker run --rm -v $(PWD):/repo --workdir /repo rhysd/actionlint:latest -color
 
 black:
-	black *.py
+	black $(PYTHON_FILES)
 
 isort:
-	isort *.py
+	isort $(PYTHON_FILES)
 
 scrape: clean
 	scrapy crawl scale_schedule -o events.json
