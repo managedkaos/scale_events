@@ -1,7 +1,7 @@
 # SCaLE 22x Schedule
 
-> !NOTE
-> The HTML Data Table is the one you really want to use.
+> [!TIP]
+> The HTML Data Table is the one you really want to use. 😅
 
 - [HTML Data Table](https://managedkaos.github.io/scale_events/)
 - [Markdown List (Formatted)](public/EVENTS.md)
