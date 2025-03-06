@@ -1,7 +1,10 @@
 # SCaLE 22x Schedule
 
-- [Events as Searchable Text](https://managedkaos.github.io/scale_events/)
-- [Events as Markdown List (live)](https://managedkaos.github.io/scale_events/EVENTS.md)
-- [Events as Markdown List (prebuilt)](public/EVENTS.md)
-- [Events as CSV](https://managedkaos.github.io/scale_events/events.csv)
-- [Events as JSON](https://managedkaos.github.io/scale_events/sorted_events.json)
+> !NOTE
+> The HTML Data Table is the one you really want to use.
+
+- [HTML Data Table](https://managedkaos.github.io/scale_events/)
+- [Markdown List (Formatted)](public/EVENTS.md)
+- [Markdown List (Raw)](https://managedkaos.github.io/scale_events/EVENTS.md)
+- [CSV](https://managedkaos.github.io/scale_events/events.csv)
+- [JSON](https://managedkaos.github.io/scale_events/sorted_events.json)
